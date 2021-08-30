@@ -1,3 +1,2 @@
-# analytix
-final projecs submissions
+# Network Intrusion Detection
 
